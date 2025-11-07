@@ -218,12 +218,10 @@ Led a cross-functional team of 7 members as Project Manager for sustainable tech
 - Emotional intelligence
 
 ## 📈 RACI Matrix Example
-
+![RACI Matrix](/RACI.png)
 
 **Legend:**
 - **R** = Responsible (Does the work)
 - **A** = Accountable (Final authority)
 - **C** = Consulted (Input sought)
 - **I** = Informed (Kept updated)
-
-## 📊 Gantt Chart Overview
