@@ -219,14 +219,6 @@ Led a cross-functional team of 7 members as Project Manager for sustainable tech
 
 ## 📈 RACI Matrix Example
 
-| Task | Project Manager | Research Team | Legal | Media | Social |
-|------|----------------|---------------|-------|-------|--------|
-| Project Planning | **R/A** | C | C | C | C |
-| Research Analysis | A | **R** | I | I | I |
-| Legal Review | A | C | **R** | I | I |
-| Video Production | A | I | I | **R** | C |
-| Social Campaign | A | I | I | C | **R** |
-| Final Report | **R/A** | C | C | C | C |
 
 **Legend:**
 - **R** = Responsible (Does the work)
