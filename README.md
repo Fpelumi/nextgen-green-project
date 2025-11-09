@@ -346,4 +346,4 @@ This project management experience directly translates to cybersecurity roles:
 
 **Contact:** pelumifatoba32@gmail.com  
 **LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)  
-**Portfolio:** [Your Netlify URL]
+**Portfolio:** [[Your Netlify URL](https://fatoba.netlify.app/)]
