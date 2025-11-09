@@ -166,7 +166,7 @@ Led a cross-functional team of 9 members as Project Manager for sustainable tech
 
 ### Team Performance
 - **Team Size:** 9 members
-- **Team Meetings:** 36 stand-ups, 12 sprint reviews
+- **Team Meetings:** 12 team meetings
 - **Tasks Completed:** 9 individual tasks
 - **Collaboration Score:** 8.5/10
 
@@ -177,10 +177,8 @@ Led a cross-functional team of 9 members as Project Manager for sustainable tech
 - **Video Duration:** 15 minutes total content
 
 ### Budget Management
-- **Budget Allocated:** $XX,XXX (simulated)
-- **Budget Used:** $XX,XXX
-- **Variance:** Under 5%
-- **ROI:** Positive outcomes
+- **Budget Allocated:** £XX,XXX (No budget allocated)
+- **Budget Used:** £XX,XXX
 
 ## 🔧 Skills Demonstrated
 
@@ -341,7 +339,7 @@ This project management experience directly translates to cybersecurity roles:
 
 **Project Manager:** Oluwapelumi Fatoba  
 **Duration:** 6 weeks  
-**Team Size:** 10 members  
+**Team Size:** 9 members  
 **Outcome:** Delivered on time, under budget, exceeded expectations
 
 **Contact:** pelumifatoba32@gmail.com  
